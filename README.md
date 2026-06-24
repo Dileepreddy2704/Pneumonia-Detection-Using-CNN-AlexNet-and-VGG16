@@ -1,5 +1,7 @@
 # 🩺 Pneumonia Detection Using CNN, AlexNet, and VGG16
 
+🏆 Published by KSCST (Karnataka State Council for Science and Technology), IISc Bengaluru
+
 ## 📌 Overview
 
 Pneumonia is a severe respiratory infection that affects the lungs and can lead to serious health complications if not diagnosed early. This project applies Deep Learning and Computer Vision techniques to automatically detect pneumonia from Chest X-ray images.
@@ -167,6 +169,18 @@ Execute all cells sequentially to:
 ## 📊 Results
 
 The project successfully trained and evaluated multiple deep learning architectures for pneumonia detection.
+
+## 🏆 Recognition & Publication
+
+This project was selected and published by the **Karnataka State Council for Science and Technology (KSCST)** and presented under its student research initiative.
+
+**Publication Organization:**  
+Karnataka State Council for Science and Technology (KSCST)
+
+**Venue:**  
+Indian Institute of Science (IISc), Bengaluru, India
+
+This recognition highlights the project's contribution to the application of Deep Learning and Computer Vision techniques in healthcare and medical image analysis.
 
 ### Key Outcomes
 
